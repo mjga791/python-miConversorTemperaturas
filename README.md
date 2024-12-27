@@ -11,3 +11,8 @@ Para poder ejecutar este programa adecuadamente tras haberlo clonado, se debe ll
 pip install -r requirements.txt
 ```
 
+A continuación, ejecutamos en consola 
+
+```
+python programa_conversor.py
+```
